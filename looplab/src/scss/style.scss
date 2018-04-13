@@ -4,7 +4,8 @@ $primary-color:#008ed6;
 $dark-overlay: rgba(0,0,0,0.7);
 $icon-size: 30px;
 
-body{
+// weight issue, change body tag to home id
+#home{
   background: $bg-color;
   color: $font-color
 }
